@@ -1,7 +1,7 @@
 
 DELET data file
 
-
+~~~shell
 ├── data
 │   ├── Annotations   Doing detection The tag file at the time of the task,  .xml, with the file name corresponding to the image name
 │   ├── images  Save .jpg files
@@ -14,3 +14,4 @@ DELET data file
 │   ├── val.txt  the pictures used for validation
 │   ├── trainval.txt  train and val
 │   ├── test.txt  the pictures used for testing
+~~~
